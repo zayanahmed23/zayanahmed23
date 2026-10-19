@@ -47,8 +47,8 @@ zayan.generate(
 | Field | Value |
 |---|---|
 | **Developed by** | Zayan Ahmed |
-| **Model type** | AI Engineer × ML Researcher (hybrid, production-tested) |
-| **Currently deployed at** | AI Engineer, Karachi 🇵🇰 |
+| **Model type** | AI x ML Engineer × Researcher (hybrid, production-tested) |
+| **Currently deployed at** | AI Engineer in Karachi 🇵🇰 |
 | **Base model** | B.E. Mechanical Engineering, NED University (2017–2021) |
 | **Fine-tuned on** | M.Sc. Data Science, NED University (2023–2025) · GPA 3.6 / 4.0 |
 | **Auxiliary heads** | 4+ years of SEO & growth (led a 20+ person SEO team) |
