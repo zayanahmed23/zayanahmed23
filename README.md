@@ -127,7 +127,7 @@ Shipped at work (client names withheld):
 
 ## Intended use
 
-** Well-suited for**
+**Well-suited for**
 - Funded **PhD / research positions**: evaluation, interpretability, robustness
 - **Research & open-source collaborations** on model failure modes and spurious correlations
 - **Freelance & part-time AI engineering**: LLM apps, agents, eval pipelines, CV/NLP models
@@ -147,14 +147,14 @@ Shipped at work (client names withheld):
 
 ---
 
-## 📫 Inference endpoints
+## Inference endpoints
 
 <p align="center">
   <a href="mailto:zayanahmed222@gmail.com"><img src="https://img.shields.io/badge/Email-zayanahmed222%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/zayan-ahmed-1623b71b4"><img src="https://img.shields.io/badge/LinkedIn-Zayan%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### 📝 Citation
+### Citation
 
 ```bibtex
 @misc{ahmed2026zayan,
