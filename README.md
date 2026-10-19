@@ -76,7 +76,7 @@ flowchart LR
 | **Pre-training** · 2017–2023 | B.E. Mechanical Eng · Executive Engineer, services & projects at a denim mill · maintenance trainee in textiles | Systems thinking, root-cause analysis, keeping real machines running |
 | **Domain adaptation** · 2017–2025 | Freelance SEO → Ads Manager → **SEO Team Lead** (20+ executives, 200+ client projects) | Search intent, experimentation, measuring what matters, leading people |
 | **Fine-tuning** · 2023–2025 | **M.Sc. Data Science**, NED University | Statistics, ML, deep learning, NLP, computer vision |
-| **RL from production** · 2025– | Associate ML Engineer → **AI Engineer @ Techelix** | Shipping models that real users depend on |
+| **RL from production** · 2025– | Associate ML Engineer → **AI Engineer** | Shipping models that real users depend on |
 
 ---
 
